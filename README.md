@@ -82,7 +82,7 @@ I’m **Hasan Hashmi**, a **frontend-focused fullstack web developer** passionat
 ## 📄 My Resume  
 
 <p align="center">
-  <a href="https://drive.google.com/your-resume-link-here](https://drive.google.com/file/d/1fkAuyRhJOQYhIWWSIQ5WxpxbLP1M6dFV/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1fkAuyRhJOQYhIWWSIQ5WxpxbLP1M6dFV/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 View%20My%20Resume-blue?style=for-the-badge"/>
   </a>
 </p>
