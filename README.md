@@ -73,9 +73,7 @@ I’m **Hasan Hashmi**, a **frontend-focused fullstack web developer** passionat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanhashmi1&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasanhashmi1&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
+
 
 ---
 
