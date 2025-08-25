@@ -11,12 +11,12 @@
 
 ## 🚀 About Me  
 
-I’m **Hasan Hashmi**, a **frontend-focused fullstack web developer** with a strong grip on modern frameworks, problem-solving, and team leadership.  
+I’m **Hasan Hashmi**, a **frontend-focused fullstack web developer** passionate about building scalable, user-friendly, and impactful applications.  
 
-- 💻 Skilled in **MERN & PERN Stacks** with real-world project deployments.  
-- 🌱 Currently exploring **AI-powered web apps**, **TypeScript**, and **system design**.  
-- 🧑‍💻 Open to **remote web developer roles** and global collaboration.  
-- ⚡ Fun fact: I believe in *clean code, scalability, and continuous learning*.  
+- 💻 Skilled in **MERN & PERN Stacks**, CI/CD, and API integrations.  
+- 🌱 Currently working on **AI-powered projects** with Grok AI and exploring **TypeScript** deeply.  
+- 🧑‍💻 Open to **remote developer roles worldwide**.  
+- ⚡ Fun fact: I thrive on solving complex problems with clean & scalable code.  
 
 ---
 
@@ -75,6 +75,16 @@ I’m **Hasan Hashmi**, a **frontend-focused fullstack web developer** with a st
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hasanhashmi1&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+## 📄 My Resume  
+
+<p align="center">
+  <a href="https://drive.google.com/your-resume-link-here](https://drive.google.com/file/d/1fkAuyRhJOQYhIWWSIQ5WxpxbLP1M6dFV/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄 View%20My%20Resume-blue?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
